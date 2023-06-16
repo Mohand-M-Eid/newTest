@@ -1,0 +1,13 @@
+.container{   
+    background-color: blue;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footballteam{
+    background-color: aquamarine;
+    padding: 10px;
+}
+h1{
+    color: brown;
+}
